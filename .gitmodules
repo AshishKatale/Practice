@@ -1,0 +1,9 @@
+[submodule "CPP"]
+	path = CPP
+	url = ../CPP
+[submodule "Golang"]
+	path = Golang
+	url = ../Golang
+[submodule "Rust"]
+	path = Rust
+	url = ../Rust
